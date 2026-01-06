@@ -97,6 +97,6 @@ I have professionally upskilled in the following areas:
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=its-harsh-raj&show_icons=true&theme=radical&hide_border=true" />
-</p>
+![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=its-harsh-raj&show_icons=true&theme=radical&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=its-harsh-raj&layout=compact&theme=radical&hide_border=true)
