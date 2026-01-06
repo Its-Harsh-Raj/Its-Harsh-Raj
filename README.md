@@ -69,6 +69,12 @@ I have professionally upskilled in the following areas:
 
 ### 🤝 Connect With Me
 
+<p align="center">
+  <a href="mailto:business@harshdigitalstore.com">
+    <img src="https://img.shields.io/badge/Business_Email-business%40harshdigitalstore.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
 <p align="left">
   <a href="https://www.linkedin.com/in/its-harsh-raj" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -92,11 +98,3 @@ I have professionally upskilled in the following areas:
     <img src="https://img.shields.io/badge/WhatsApp_Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
-
----
-
-### 📊 GitHub Stats
-
-![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=its-harsh-raj&show_icons=true&theme=radical&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=its-harsh-raj&layout=compact&theme=radical&hide_border=true)
